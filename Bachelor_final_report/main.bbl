@@ -1,0 +1,173 @@
+\begin{thebibliography}{10}
+
+\bibitem{a2024_urban}
+Urban transportation challenges and solutions for modern cities – navigate
+  mobility, 08 2024.
+
+\bibitem{arunkumar_2022_comparative}
+K.E. ArunKumar, Dinesh~V. Kalaga, Ch. Mohan Sai~Kumar, Masahiro Kawaji, and
+  Timothy~M. Brenza.
+\newblock Comparative analysis of gated recurrent units (gru), long short-term
+  memory (lstm) cells, autoregressive integrated moving average (arima),
+  seasonal autoregressive integrated moving average (sarima) for forecasting
+  covid-19 trends.
+\newblock {\em Alexandria Engineering Journal}, 01 2022.
+
+\bibitem{enwere_2023_comparative}
+Kelachi Enwere, Ethelbert Nduka, and Uchenna Ogoke.
+\newblock Comparative analysis of ridge, bridge and lasso regression models in
+  the presence of multicollinearity.
+\newblock {\em IPS Intelligentsia Multidisciplinary Journal}, 3:1--8, 01 2023.
+
+\bibitem{faghih_2020_taxi}
+Sabiheh Faghih, Arpita Shah, Zehan Wang, Abolfazl Safikhani, and Camille Kamga.
+\newblock Taxi and mobility: Modeling taxi demand using arma and linear
+  regression.
+\newblock {\em Procedia Computer Science}, 177:186--195, 2020.
+
+\bibitem{hamilton_2018_inductive}
+William~L. Hamilton, Rex Ying, and Jure Leskovec.
+\newblock Inductive representation learning on large graphs.
+\newblock {\em arXiv:1706.02216 [cs, stat]}, 09 2018.
+
+\bibitem{jiang_2019_shortterm}
+Shan Jiang, Wentian Chen, Zhiheng Li, and Haiyang Yu.
+\newblock Short-term demand prediction method for online car-hailing services
+  based on a least squares support vector machine.
+\newblock {\em IEEE Access}, 7:11882--11891, 2019.
+
+\bibitem{ke_2019_hexagonbased}
+Jintao Ke, Hai Yang, Hongyu Zheng, Xiqun Chen, Yitian Jia, Pinghua Gong, and
+  Jieping Ye.
+\newblock Hexagon-based convolutional neural network for supply-demand
+  forecasting of ride-sourcing services.
+\newblock {\em IEEE Transactions on Intelligent Transportation Systems},
+  20:4160–4173, 11 2019.
+
+\bibitem{kipf_2017_semisupervised}
+Thomas~N. Kipf and Max Welling.
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock {\em arXiv:1609.02907 [cs, stat]}, 02 2017.
+
+\bibitem{li_2023_a}
+Guanyao Li, Shuhan Zhong, Xingdong Deng, Letian Xiang, S.-H.~Gary Chan, Ruiyuan
+  Li, Yang Liu, Ming Zhang, Chih-Chieh Hung, and Wen-Chih Peng.
+\newblock A lightweight and accurate spatial-temporal transformer for traffic
+  forecasting.
+\newblock {\em IEEE transactions on knowledge and data engineering},
+  35:10967--10980, 11 2023.
+
+\bibitem{li_2021_intercity}
+Hongbo Li, Jincheng Wang, Yilong Ren, and Feng Mao.
+\newblock Intercity online car-hailing travel demand prediction via a
+  spatiotemporal transformer method.
+\newblock {\em Applied Sciences}, 11:11750, 12 2021.
+
+\bibitem{liu_2019_contextualized}
+Lingbo Liu, Zhilin Qiu, Guanbin Li, Qing Wang, Wanli Ouyang, and Liang Lin.
+\newblock Contextualized spatial-temporal network for taxi origin-destination
+  demand prediction, 2019.
+
+\bibitem{liu_2023_graphsagebased}
+Tao Liu, Aimin Jiang, Jia Zhou, Min Li, and Hon~Keung Kwan.
+\newblock Graphsage-based dynamic spatial–temporal graph convolutional
+  network for traffic prediction.
+\newblock {\em IEEE Transactions on Intelligent Transportation Systems},
+  24:11210--11224, 10 2023.
+
+\bibitem{ma_2018_using}
+Jian Ma, Zhao~Yang Dong, and Pei Zhang.
+\newblock Using a support vector machine (svm) to improve generalization
+  ability of load model parameters.
+\newblock {\em Ieee.org}, 2018.
+
+\bibitem{nazir_2024_a}
+Ahsan Nazir, Jingsha He, Nafei Zhu, Saima~Siraj Qureshi, Siraj~Uddin Qureshi,
+  Faheem Ullah, Ahsan Wajahat, and Muhammad~Salman Pathan.
+\newblock A deep learning-based novel hybrid cnn-lstm architecture for
+  efficient detection of threats in the iot ecosystem.
+\newblock {\em Ain Shams Engineering Journal/Ain Shams Engineering Journal},
+  pages 102777--102777, 04 2024.
+
+\bibitem{qian_2015_spatial}
+Xinwu Qian and Satish~V. Ukkusuri.
+\newblock Spatial variation of the urban taxi ridership using gps data.
+\newblock {\em Applied Geography}, 59:31--42, 05 2015.
+
+\bibitem{rodrigues_2019_combining}
+Filipe Rodrigues, Ioulia Markou, and Francisco~C. Pereira.
+\newblock Combining time-series and textual data for taxi demand prediction in
+  event areas: A deep learning approach.
+\newblock {\em Information Fusion}, 49:120--129, 09 2019.
+
+\bibitem{salem_2021_gated}
+Fathi~M Salem.
+\newblock Gated rnn: The gated recurrent unit (gru) rnn.
+\newblock {\em Springer eBooks}, pages 85--100, 10 2021.
+
+\bibitem{sanchezlengeling_2021_a}
+Benjamin Sanchez-Lengeling, Emily Reif, Adam Pearce, and Alex Wiltschko.
+\newblock A gentle introduction to graph neural networks.
+\newblock {\em Distill}, 6, 08 2021.
+
+\bibitem{schaller_2005_a}
+Bruce Schaller.
+\newblock A regression model of the number of taxicabs in u.s. cities.
+\newblock {\em Journal of Public Transportation}, 8:63--78, 12 2005.
+
+\bibitem{sherstinsky_fundamentals}
+Alex Sherstinsky.
+\newblock Fundamentals of recurrent neural network (rnn) and long short-term
+  memory (lstm) network.
+
+\bibitem{vaswani_2017_attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan
+  Gomez, Łukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2017.
+
+\bibitem{velikovi_2018_graph}
+Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro
+  Liò, and Yoshua Bengio.
+\newblock Graph attention networks.
+\newblock {\em arXiv:1710.10903 [cs, stat]}, 02 2018.
+
+\bibitem{williams_2003_modeling}
+Billy~M. Williams and Lester~A. Hoel.
+\newblock Modeling and forecasting vehicular traffic flow as a seasonal arima
+  process: Theoretical basis and empirical results.
+\newblock {\em Journal of Transportation Engineering}, 129:664--672, 11 2003.
+
+\bibitem{xu_2018_realtime}
+Jun Xu, Rouhollah Rahmatizadeh, Ladislau Boloni, and Damla Turgut.
+\newblock Real-time prediction of taxi demand using recurrent neural networks.
+\newblock {\em IEEE Transactions on Intelligent Transportation Systems},
+  19:2572--2581, 08 2018.
+
+\bibitem{xue_2020_spatialtemporal}
+Jianzhe Xue, Yunting Xu, Dongcheng Yuan, Caoyi Zha, Hongyang Du, Haibo Zhou,
+  and Dusit Niyato.
+\newblock Spatial-temporal generative ai for traffic flow estimation with
+  sparse data of connected vehicles, 2020.
+
+\bibitem{yu_2018_spatiotemporal}
+Bing Yu, Haoteng Yin, and Zhanxing Zhu.
+\newblock Spatio-temporal graph convolutional networks: A deep learning
+  framework for traffic forecasting.
+\newblock {\em Proceedings of the Twenty-Seventh International Joint Conference
+  on Artificial Intelligence}, page 3634–3640, 07 2018.
+
+\bibitem{zhao_2020_predicting}
+Kai Zhao, Denis Khryashchev, and Huy Vo.
+\newblock Predicting taxi and uber demand in cities: Approaching the limit of
+  predictability.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, pages
+  1--1, 2020.
+
+\bibitem{etin_2011_estimating}
+Tamer Çetin and Kadir Yasin~Eryigit.
+\newblock Estimating the effects of entry regulation in the istanbul taxicab
+  market.
+\newblock {\em Transportation Research Part A: Policy and Practice},
+  45:476--484, 07 2011.
+
+\end{thebibliography}
